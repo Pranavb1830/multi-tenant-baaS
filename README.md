@@ -155,11 +155,6 @@ X-API-Key: <your_key>
 
 ---
 
-## 📸 API Demo
-
-
----
-
 ## 🔮 Future Improvements
 
 * ☁️ AWS EC2 deployment
